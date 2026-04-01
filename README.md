@@ -9,13 +9,13 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project demonstrates a complete **Data Version Control (DVC)** workflow using the Wine Quality dataset. The core idea: let **Git track code**, let **DVC track data** — keeping repositories lightweight while maintaining full reproducibility across dataset versions.
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 project/
@@ -30,7 +30,7 @@ project/
 
 ---
 
-## 🚀 Workflow Walkthrough
+## Workflow Walkthrough
 
 ### 1. Environment Setup
 
@@ -111,7 +111,7 @@ dvc pull
 
 ---
 
-## 🧠 Key Concepts
+## Key Concepts
 
 | Concept | Tool | Role |
 |---|---|---|
@@ -122,7 +122,7 @@ dvc pull
 
 ---
 
-## ✅ Key Outcomes
+## Key Outcomes
 
 - **Separation of concerns** — Git stays lean; data lives in dedicated storage
 - **Efficient storage** — Large files never bloat the Git repository
@@ -131,13 +131,13 @@ dvc pull
 
 ---
 
-## 💡 One-Line Summary
+## One-Line Summary
 
 > Implemented a DVC-based data versioning workflow to track dataset changes, store data in remote storage, and reproduce historical dataset versions using Git and DVC integration.
 
 ---
 
-## 📚 References
+## References
 
 - [DVC Documentation](https://dvc.org/doc)
 - [Wine Quality Dataset — UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/wine+quality)
